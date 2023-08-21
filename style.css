@@ -78,7 +78,7 @@ h2 {
 }
 
 .balloonFour {
-  background-color: rgb(17, 138, 178, 0.7);
+  background-color: rgba(178, 17, 17, 0.7);
   left: 170px;
   top: 20px;
 }
@@ -121,7 +121,7 @@ h2 {
 }
 
 .balloonFour:after {
-  border-bottom: 10px solid #118ab2;
+  border-bottom: 10px solid #962424;
 }
 
 .cardInside {
